@@ -19,13 +19,7 @@ const nombresDePlanta = {
 
 //configuracion para la conexion de la base de datos sql server
 const config = {
-  user: 'adminsql',
-  password: 'Megalodon_2001',
-  server: 'servidortestsql.database.windows.net',
-  database: 'BDTest',
-  options: {
-    encrypt: true, 
-    enableArithAbort: true,
+  
   },
 };
 //Objeto del bot
